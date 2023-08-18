@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: mod-pywebsocket
+Version: 0.7.9
+Summary: WebSocket extension for Apache HTTP Server.
+Home-page: http://code.google.com/p/pywebsocket/
+Author: Yuzo Fujishima
+Author-email: yuzo@chromium.org
+License: See LICENSE
+License-File: LICENSE
+
+mod_pywebsocket is an Apache HTTP Server extension for the WebSocket Protocol (RFC 6455). See mod_pywebsocket/__init__.py for more detail.
